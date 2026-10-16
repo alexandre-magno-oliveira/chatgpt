@@ -1,0 +1,12 @@
+[build]
+  publish = "plano_de_curso_rota"
+
+[[redirects]]
+  from = "/plano_de_curso_rota"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/plano_de_curso_rota/*"
+  to = "/:splat"
+  status = 301
