@@ -102,6 +102,8 @@ Papel é o fundo geral; superfície é o fundo das tabelas. Tinta sustenta a lei
 
 ## Typography
 
+Os parágrafos e textos das células da proposta usam alinhamento justificado, com hifenização automática. Títulos, navegação e controles mantêm seu alinhamento próprio.
+
 Newsreader com fallback Georgia compõe título, subtítulo e títulos de seção. Source Sans 3, registrada no CSS como `Source Sans`, compõe corpo, navegação, tabelas e controles. Ambas são fontes variáveis locais, distribuídas com suas licenças OFL.
 
 O título usa o papel `display`; seções usam `headline`; subtítulos internos usam `title`. O corpo base tem entrelinha 1.65; os parágrafos do documento ampliam para 1.8 e limitam a medida a 73ch. O subtítulo serifado tem 28px e entrelinha 1.25. Metadados usam 12px; navegação e controles de desktop usam 13px; tabelas usam 14px e números tabulares.
