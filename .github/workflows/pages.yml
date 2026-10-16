@@ -21,9 +21,13 @@ jobs:
       - uses: actions/configure-pages@v5
         with:
           enablement: true
+      - name: Preparar somente os arquivos públicos
+        run: |
+          mkdir -p "$RUNNER_TEMP/rota-site/plano_de_curso_rota"
+          cp -R plano_de_curso_rota/. "$RUNNER_TEMP/rota-site/plano_de_curso_rota/"
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ${{ runner.temp }}/rota-site
       - name: Publicar
         id: deployment
         uses: actions/deploy-pages@v4

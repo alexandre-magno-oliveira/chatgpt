@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-16T15:07:37.123240+00:00",
+  "title": "Design System: Rota da Acessibilidade",
+  "extensions": {
+    "colorMeta": {
+      "navy": {
+        "role": "primary",
+        "displayName": "Navy",
+        "tonalRamp": [
+          "oklch(15% 0.0503 247.92)",
+          "oklch(26% 0.0503 247.92)",
+          "oklch(38% 0.0503 247.92)",
+          "oklch(49% 0.0503 247.92)",
+          "oklch(61% 0.0503 247.92)",
+          "oklch(72% 0.0503 247.92)",
+          "oklch(84% 0.0503 247.92)",
+          "oklch(95% 0.0503 247.92)"
+        ]
+      },
+      "navy-light": {
+        "role": "primary",
+        "displayName": "Navy Light",
+        "tonalRamp": [
+          "oklch(15% 0.0579 242.98)",
+          "oklch(26% 0.0579 242.98)",
+          "oklch(38% 0.0579 242.98)",
+          "oklch(49% 0.0579 242.98)",
+          "oklch(61% 0.0579 242.98)",
+          "oklch(72% 0.0579 242.98)",
+          "oklch(84% 0.0579 242.98)",
+          "oklch(95% 0.0579 242.98)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0070 88.64)",
+          "oklch(26% 0.0070 88.64)",
+          "oklch(38% 0.0070 88.64)",
+          "oklch(49% 0.0070 88.64)",
+          "oklch(61% 0.0070 88.64)",
+          "oklch(72% 0.0070 88.64)",
+          "oklch(84% 0.0070 88.64)",
+          "oklch(95% 0.0070 88.64)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0054 95.10)",
+          "oklch(26% 0.0054 95.10)",
+          "oklch(38% 0.0054 95.10)",
+          "oklch(49% 0.0054 95.10)",
+          "oklch(61% 0.0054 95.10)",
+          "oklch(72% 0.0054 95.10)",
+          "oklch(84% 0.0054 95.10)",
+          "oklch(95% 0.0054 95.10)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0371 241.69)",
+          "oklch(26% 0.0371 241.69)",
+          "oklch(38% 0.0371 241.69)",
+          "oklch(49% 0.0371 241.69)",
+          "oklch(61% 0.0371 241.69)",
+          "oklch(72% 0.0371 241.69)",
+          "oklch(84% 0.0371 241.69)",
+          "oklch(95% 0.0371 241.69)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0147 229.16)",
+          "oklch(26% 0.0147 229.16)",
+          "oklch(38% 0.0147 229.16)",
+          "oklch(49% 0.0147 229.16)",
+          "oklch(61% 0.0147 229.16)",
+          "oklch(72% 0.0147 229.16)",
+          "oklch(84% 0.0147 229.16)",
+          "oklch(95% 0.0147 229.16)"
+        ]
+      },
+      "rust": {
+        "role": "secondary",
+        "displayName": "Rust",
+        "tonalRamp": [
+          "oklch(15% 0.0939 42.47)",
+          "oklch(26% 0.0939 42.47)",
+          "oklch(38% 0.0939 42.47)",
+          "oklch(49% 0.0939 42.47)",
+          "oklch(61% 0.0939 42.47)",
+          "oklch(72% 0.0939 42.47)",
+          "oklch(84% 0.0939 42.47)",
+          "oklch(95% 0.0939 42.47)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Rule",
+        "tonalRamp": [
+          "oklch(15% 0.0108 106.62)",
+          "oklch(26% 0.0108 106.62)",
+          "oklch(38% 0.0108 106.62)",
+          "oklch(49% 0.0108 106.62)",
+          "oklch(61% 0.0108 106.62)",
+          "oklch(72% 0.0108 106.62)",
+          "oklch(84% 0.0108 106.62)",
+          "oklch(95% 0.0108 106.62)"
+        ]
+      },
+      "blue-wash": {
+        "role": "neutral",
+        "displayName": "Blue Wash",
+        "tonalRamp": [
+          "oklch(15% 0.0070 219.56)",
+          "oklch(26% 0.0070 219.56)",
+          "oklch(38% 0.0070 219.56)",
+          "oklch(49% 0.0070 219.56)",
+          "oklch(61% 0.0070 219.56)",
+          "oklch(72% 0.0070 219.56)",
+          "oklch(84% 0.0070 219.56)",
+          "oklch(95% 0.0070 219.56)"
+        ]
+      },
+      "focus": {
+        "role": "secondary",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.1231 45.67)",
+          "oklch(26% 0.1231 45.67)",
+          "oklch(38% 0.1231 45.67)",
+          "oklch(49% 0.1231 45.67)",
+          "oklch(61% 0.1231 45.67)",
+          "oklch(72% 0.1231 45.67)",
+          "oklch(84% 0.1231 45.67)",
+          "oklch(95% 0.1231 45.67)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Título editorial",
+        "purpose": "Título principal."
+      },
+      "headline": {
+        "displayName": "Título de seção",
+        "purpose": "Seções do documento."
+      },
+      "body": {
+        "displayName": "Leitura",
+        "purpose": "Texto contínuo e controles."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "navigation-state",
+        "value": "background .18s ease-out, color .18s ease-out",
+        "purpose": "Hover dos links do sumário; desativado com movimento reduzido."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "small-phone",
+        "value": "480px"
+      },
+      {
+        "name": "mobile-navigation",
+        "value": "800px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "wide-desktop",
+        "value": "1600px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Ação principal",
+      "kind": "button",
+      "refersTo": "primary-action",
+      "description": "Link para um ponto de leitura.",
+      "html": "<a class=\"ds-primary\" href=\"#cursos\">Consultar cursos →</a>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;gap:25px;background:var(--navy);color:white;padding:11px 17px;border-radius:var(--radius);text-decoration:none;font:600 14px/1.65 var(--font-body)}.ds-primary:hover{background:var(--navy-light);color:white}.ds-primary:focus-visible{outline:3px solid var(--focus);outline-offset:4px}"
+    },
+    {
+      "name": "Impressão",
+      "kind": "button",
+      "refersTo": "print-button",
+      "description": "Controle secundário da barra de ferramentas.",
+      "html": "<button class=\"ds-print\">Imprimir</button>",
+      "css": ".ds-print{background:transparent;border:1px solid #a6afb3;border-radius:var(--radius);min-height:40px;padding:7px 13px;font:13px/1.65 var(--font-body);color:var(--ink);cursor:pointer}.ds-print:hover{background:var(--blue-wash)}.ds-print:focus-visible{outline:3px solid var(--focus);outline-offset:4px}"
+    },
+    {
+      "name": "Navegação por seção",
+      "kind": "nav",
+      "description": "Seção ativa e destino numerado no trilho.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#contexto\" aria-current=\"location\"><span>01</span>Contexto</a><a href=\"#cursos\"><span>02</span>Cursos</a></nav>",
+      "css": ".ds-nav{background:var(--navy);padding:16px;font:13px/1.45 var(--font-body)}.ds-nav a{display:grid;grid-template-columns:25px 1fr;gap:8px;padding:9px 8px;border-radius:var(--radius);color:#d7e0e6;text-decoration:none;transition:background .18s ease-out,color .18s ease-out}.ds-nav a:hover{background:var(--navy-light);color:white}.ds-nav a[aria-current]{background:#e2ebef;color:var(--navy)}.ds-nav a:focus-visible{outline:3px solid #e7bda1;outline-offset:4px}"
+    },
+    {
+      "name": "Estado documental",
+      "kind": "chip",
+      "description": "Rótulo informativo da proposta.",
+      "html": "<span class=\"ds-status\">Proposta para deliberação</span>",
+      "css": ".ds-status{display:inline-block;background:#e5ecee;border:1px solid #c5d2d9;border-radius:3px;color:#334e60;padding:4px 9px;font:12px/1.65 var(--font-body)}"
+    },
+    {
+      "name": "Tabela documental",
+      "kind": "custom",
+      "refersTo": "table",
+      "description": "Tabela com cabeçalho e contêiner rolável.",
+      "html": "<div class=\"ds-table\"><table><thead><tr><th>Curso</th><th>Carga horária</th></tr></thead><tbody><tr><td>Curso proposto</td><td>Conforme proposta</td></tr></tbody></table></div>",
+      "css": ".ds-table{overflow-x:auto;border:1px solid var(--rule);border-radius:var(--radius)}.ds-table table{border-collapse:collapse;width:100%;font:14px/1.65 var(--font-body);background:var(--surface);color:var(--ink);font-variant-numeric:tabular-nums}.ds-table th,.ds-table td{padding:15px 17px;vertical-align:top;text-align:left;min-width:120px;border-bottom:1px solid var(--rule)}.ds-table th{background:var(--blue-wash);font-weight:600;color:var(--navy)}.ds-table td:first-child{font-weight:550}.ds-table tr:last-child td{border-bottom:0}"
+    },
+    {
+      "name": "Fluxo pedagógico",
+      "kind": "custom",
+      "refersTo": "flow",
+      "description": "Sequência vertical de etapas.",
+      "html": "<figure class=\"ds-flow\"><div><strong>Formação</strong><span>Etapa proposta</span></div><figcaption>Sequência pedagógica</figcaption></figure>",
+      "css": ".ds-flow{background:var(--blue-wash);padding:24px;display:grid;gap:17px;border-radius:var(--radius);color:var(--ink);font-family:var(--font-body)}.ds-flow strong,.ds-flow span{display:block}.ds-flow strong{font-size:18px}.ds-flow span{font-size:14px}.ds-flow figcaption{font-size:12px;color:var(--muted)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Caderno de deliberação",
+    "overview": "O caderno de deliberação combina navegação azul-marinho, papel claro e títulos editoriais para uma leitura cuidadosa. A densidade é documental: hierarquia, linhas finas e tabelas organizam o conteúdo sem competir com ele.\n\nA tipografia distingue orientação e leitura contínua. As superfícies são planas; a cor ferrugem marca subtítulos e respostas de interação com discrição.",
+    "keyCharacteristics": [
+      "Papel claro e navegação azul-marinho.",
+      "Títulos serifados e texto sem serifa.",
+      "Tabelas legíveis, foco visível e impressão limpa."
+    ],
+    "rules": [],
+    "dos": [
+      "Do manter Newsreader nos títulos principais e Source Sans 3 na leitura e nos controles.",
+      "Do preservar linhas de separação, cabeçalhos de tabela e foco visível.",
+      "Do permitir rolagem horizontal das tabelas em telas estreitas."
+    ],
+    "donts": [
+      "Don't usar sombras para separar as superfícies documentais.",
+      "Don't substituir o texto integral por cartões promocionais.",
+      "Don't depender de fontes remotas para abrir o documento."
+    ]
+  }
+}
